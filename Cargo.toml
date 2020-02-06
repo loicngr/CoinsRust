@@ -4,4 +4,8 @@ version = "0.1.0"
 authors = ["loicngr <pro.nogierloic@gmail.com>"]
 edition = "2018"
 
+[[bin]]
+name = "app"
+path = "src/main.rs"
+
 [dependencies]
